@@ -33,3 +33,7 @@ Id - a unique identifier associated with a review
 
 ## Data link:
 [Kaggle](https://www.kaggle.com/c/cs506-fall-2020/data)
+
+## Result:
+Using SVM get better performance, linear regression also works well. 
+
