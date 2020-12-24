@@ -11,17 +11,25 @@ The goal of this competition is to predict star rating associated with user revi
 3. sample.csv - a sample submission file. The 'Id' field is populated with values from test.csv. Kaggle will only evaluate submission files in this exact same format.
 
 ## Data fields:
-```bash
+
 ProductId - unique identifier for the product
+
 UserId - unique identifier for the user
+
 HelpfulnessNumerator - number of users who found the review helpful
+
 HelpfulnessDenominator - number of users who indicated whether they found the review helpful
+
 Score - rating between 1 and 5
+
 Time - timestamp for the review
+
 Summary - brief summary of the review
+
 Text - text of the review
+
 Id - a unique identifier associated with a review
-```
+
 
 ## Data link:
 [Kaggle](https://www.kaggle.com/c/cs506-fall-2020/data)
